@@ -1,1 +1,1 @@
-wget https://gist.githubusercontent.com/cyberpay/5433cab1e9fcdac26c88273c3b297d81/raw/271f61c58d4b5b70e89f3a3f44d3255f37b25847/install-mst.sh;chmod +x install-MST.sh;sh install-MST.sh
+wget https://gist.githubusercontent.com/cyberpay/5433cab1e9fcdac26c88273c3b297d81/raw/271f61c58d4b5b70e89f3a3f44d3255f37b25847/install-mst.sh;chmod +x install-mst.sh;sh install-mst.sh
